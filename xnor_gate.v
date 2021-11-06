@@ -1,4 +1,4 @@
-*To design XNOR gate circuit*/
+/*To design XNOR gate circuit*/
 module xnorgate(a,b,z);
   input a,b;
   output z;
